@@ -1,4 +1,5 @@
-this is a gentoo deployment script created by mental outlaw
+this is a gentoo deployment script created by mental outlaw and maintained by interleace
+
 PREREQUISITES
 This script can be run from a live CD or a live OS, you can download this script from there using links or wget
 1. Run setup_gentoo.sh it will prompt you to provision your disk, or you can auto provision using my recommended format
